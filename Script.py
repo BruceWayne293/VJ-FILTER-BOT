@@ -244,7 +244,7 @@ Nᴀᴍᴇ - {}"""
 
 𝗠𝗲𝘀𝘀𝗮𝗴𝗲 <b>: {}</b>"""
 
-    CAPTION = """<b>📂 ғɪʟᴇɴᴀᴍᴇ : {file_name}
+    CAPTION = """<b><a href="https://t.me/KL55_LINKS">{file_name}</a></b>\n\n<b>⚜️ Powered By : <a https://t.me/KL55_LINKS>[KL55_LINKS]</a>
 
 <b>⚙️ sɪᴢᴇ : {file_size}</b>""" 
 
